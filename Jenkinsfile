@@ -1,2 +1,2 @@
 @Library('etechshared-library') _
-etechApp ''
+etechApp 'https://github.com/etechDevops/etechapp'
